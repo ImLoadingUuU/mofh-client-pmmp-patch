@@ -31,8 +31,7 @@
    "extra": {
     "virion": {
       "spec": "3.1",
-      "namespace-root": "ImLoadingUuU\\mofh-client",
- 
+      "namespace-root": "imloadinguuu\\mofh-client"
     }
   }
 }
