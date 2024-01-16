@@ -32,7 +32,7 @@
     "virion": {
       "spec": "3.1",
       "namespace-root": "infinityfree\\mofh-client",
-      "shared-namespace-root": "Shared\\infinityfree\\mofh-client" # optional
+ 
     }
   }
 }
