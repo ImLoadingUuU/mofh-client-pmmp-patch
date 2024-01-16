@@ -1,5 +1,5 @@
 {
-  "name": "ImLoadingUuU/mofh-client",
+  "name": "imloadinguuu/mofh-client",
   "description": "A WHM API client for MyOwnFreeHost in PHP",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
@@ -24,8 +24,8 @@
   },
   "autoload": {
     "psr-4": {
-      "ImLoadingUuU\\MofhClient\\": "src/",
-      "ImLoadingUuU\\MofhClient\\Tests\\": "tests/"
+      "imloadinguuu\\MofhClient\\": "src/",
+      "imloadinguuu\\MofhClient\\Tests\\": "tests/"
     }
   },
    "extra": {
