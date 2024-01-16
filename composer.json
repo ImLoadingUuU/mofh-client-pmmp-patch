@@ -1,5 +1,5 @@
 {
-  "name": "infinityfree/mofh-client",
+  "name": "ImLoadingUuU/mofh-client",
   "description": "A WHM API client for MyOwnFreeHost in PHP",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
@@ -24,14 +24,14 @@
   },
   "autoload": {
     "psr-4": {
-      "InfinityFree\\MofhClient\\": "src/",
-      "InfinityFree\\MofhClient\\Tests\\": "tests/"
+      "ImLoadingUuU\\MofhClient\\": "src/",
+      "ImLoadingUuU\\MofhClient\\Tests\\": "tests/"
     }
   },
    "extra": {
     "virion": {
       "spec": "3.1",
-      "namespace-root": "infinityfree\\mofh-client",
+      "namespace-root": "ImLoadingUuU\\mofh-client",
  
     }
   }
